@@ -82,14 +82,18 @@ python ipl_data_analysis.py
 
 Result:
 
-1.  Batsman performance analysis:
+1.  Batsman performance analysis: the analysis shows that the total no of percentage for each run.
+        <img width="1004" alt="Screen Shot 2024-07-30 at 15 23 06" src="https://github.com/user-attachments/assets/45f9cbd6-4686-4953-8f92-ce52bb38b3c8">
 
-2.  Toss decision analysis:
+2.  Toss decision analysis: In this analysis we can see that in most of the season if the team win the toss, wants to field first.
+        <img width="951" alt="Screen Shot 2024-07-31 at 10 42 14" src="https://github.com/user-attachments/assets/388b9cc7-40b1-4547-ba48-5e7137847043">
 
-3.  Does winning toss implies winning match:
+3.  Does winning toss implies winning match: the analysis shows that winning toss is not mandatory to win the match
+        <img width="1028" alt="Screen Shot 2024-07-31 at 11 04 08" src="https://github.com/user-attachments/assets/2b501800-9799-47ad-a349-6b4590c90e7b">
 
 4.  which team have won the tournment most:
 
         'Mumbai Indians': 5
 
-5.  comparitive analysis of teams:
+5.  comparitive analysis of teams: by this analysis we can see the top 5 teams which have won the most number of matches
+        <img width="1403" alt="Screen Shot 2024-07-31 at 16 01 53" src="https://github.com/user-attachments/assets/8a92331d-1746-49ca-ac3d-97b0b64d3556">
